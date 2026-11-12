@@ -40,6 +40,13 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Project Goal1
+## Project Goal
 
 To improve the learning experience by analyzing student performance and providing personalized learning support.
+## Screenshots
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Cluster Analysis
+![Cluster Analysis](cluster_analysis.png)
